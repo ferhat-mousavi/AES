@@ -9,3 +9,5 @@ HMAC-MD5 combines the MD5 hash function with a secret key to provide message int
 
 # **SHA-256 (Secure Hash Algorithm 256-bit):**
 SHA-256 is a member of the SHA-2 family of cryptographic hash functions and produces a 256-bit hash value. It is widely used for data integrity checks and digital signatures in many security protocols, such as SSL/TLS, Bitcoin, and blockchain technology. SHA-256 is considered secure and is recommended for modern cryptographic applications.
+
+`Written in 2007`
